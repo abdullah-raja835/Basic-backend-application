@@ -1,0 +1,12 @@
+
+
+
+so here we wiil learn about github ssh key so firstly we have to install git so for installing git simply go to google and 
+install git by writing "gitbash" on gooogle and now check it that it is installed or not so for checking it go to your 
+vs code terminal or cmd and type there "git --version" and if there appears the version number with git then congrats👍
+your self that you have installed git
+
+1.firstly open the main folder in terminal by writing cd foldername and then 
+2.Now check the status by "git status" if it is not active then initialize the git 
+3.initialize the git by "git init"
+4.Now you have to add a main file into the main folder of you project and name ".gitignore"
